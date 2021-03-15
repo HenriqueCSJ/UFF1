@@ -1,6 +1,6 @@
 # UFF1
 
-UFF1 is a Single-Ion Magnets (SIM) Data Frame containing 85 DFT (TPSS/Fef2TZVP) + CASSCF (CAS(7/5)/Def2-TZVP) parameters.
+UFF1 is a Single-Ion Magnets (SIM) Data Frame containing 85 DFT (**TPSS/Fef2TZVP**) + **CAS(7/5)/Def2-TZVP** parameters.
 
 The initial version is restricted to:
 
