@@ -20,7 +20,7 @@ The initial version is restricted to:
 ## The parameters available are:
 
 - Structure ID
-- Cartesian coordinates (A)
+- Cartesian coordinates (Å)
 - Internal coordinates
 - Number of Atoms
 - Elements
