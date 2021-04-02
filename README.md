@@ -12,7 +12,7 @@ The initial version is restricted to:
   
 - Monodentate ligands
   
-- Coordination numbers from 1 to 6
+- Coordination numbers from 2 to 6
   
 
 ---
