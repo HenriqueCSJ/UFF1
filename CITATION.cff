@@ -1,0 +1,56 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: UFF1
+message: >-
+  A large dataset with CASSCF + DFT features on
+  organometallic compounds containing Co, N, O H
+type: dataset
+authors:
+  - given-names: Henrique
+    name-particle: de
+    family-names: Castro Silva
+    name-suffix: Junior
+    email: henriquecsj@outlook.com
+    affiliation: Universidade Federal Fluminense
+    orcid: 'https://orcid.org/0000-0003-1453-7274'
+  - given-names: Heloisa Naomy
+    family-names: Silva Menezes
+    email: heloisanaomy@id.uff.br
+    affiliation: Universidade Federal Fluminense
+    orcid: 'https://orcid.org/0000-0002-1841-2017'
+  - given-names: Glaucio
+    family-names: Braga Ferreira
+    email: glauciobf@id.uff.br
+    affiliation: Universidade Federal Fluminense
+    orcid: 'https://orcid.org/0000-0002-3205-3743'
+  - given-names: Guilherme
+    family-names: Pereira Guedes
+    email: guilherme_guedes@id.uff.br
+    affiliation: Universidade Federal Fluminense
+    orcid: 'https://orcid.org/0000-0001-6138-9943'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8120585
+    description: >-
+      A large dataset with CASSCF + DFT features on
+      organometallic compounds containing Co, N, O H
+      published on Zenodo.
+repository-code: 'https://github.com/HenriqueCSJ/UFF1'
+repository: 'https://zenodo.org/record/8120585'
+abstract: >-
+  A large dataset with CASSCF + DFT features on
+  organometallic compounds containing Co, N, O H.
+keywords:
+  - dataset
+  - machine learning
+  - DFT
+  - CASSCF
+  - magnetic anisotropy
+  - molecular nanomagnets
+  - molecular magnetism
+  - coordination compounds
+license: GPL-3.0
+version: 1.0.1-3
+date-released: '2023-07-06'
