@@ -1,5 +1,7 @@
 # UFF1 Database Documentation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8120585.svg)](https://doi.org/10.5281/zenodo.8120585)
+
 ## Overview
 
 The UFF1 database is a comprehensive collection of geometric and electronic properties of CoII single-ion magnets. It was created as part of our research into the
