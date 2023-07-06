@@ -1,6 +1,6 @@
 # UFF1 Database Documentation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8120585.svg)](https://doi.org/10.5281/zenodo.8120585)
+Zenodo - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8120585.svg)](https://doi.org/10.5281/zenodo.8120585)
 
 ## Overview
 
